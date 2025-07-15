@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/fasilev/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/fasilev/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0459-repeated-substring-pattern](https://github.com/fasilev/LeetCode/tree/master/0459-repeated-substring-pattern) |
 ## String Matching
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/fasilev/LeetCode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/fasilev/LeetCode/tree/master/0012-integer-to-roman) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/fasilev/LeetCode/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/fasilev/LeetCode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
